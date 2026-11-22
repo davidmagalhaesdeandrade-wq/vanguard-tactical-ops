@@ -1,0 +1,17 @@
+<script>
+  const requiredFiles = [
+    'src/main.js',
+    'src/game.js',
+    'src/player.js',
+    'src/bot.js',
+    'src/weapon.js',
+    'src/map.js',
+    'src/maps.js',
+    'src/hud.js',
+    'src/audio.js',
+    'src/storage.js',
+    'src/physics.js'
+  ];
+
+  window.__VANGUARD_READY__ = false;
+</script>
